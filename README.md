@@ -1,6 +1,6 @@
 # Projeto Paralímpico Catalão - Avaliação e prescrição de exercícios físicos e esportivos para pessoas com deficiência
 
-A seguir é apresentado um dos instrumentos de avaliação do projeto, o qual se encontra em desenvolvimento:
+A seguir é apresentado um dos instrumentos de avaliação do projeto, o qual se encontra em fase de desenvolvimento:
 
 ## DADOS PESSOAIS
 |     |     |     |
